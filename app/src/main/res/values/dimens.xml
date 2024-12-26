@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="button_padding">16dp</dimen>
+    <dimen name="text_size">18sp</dimen>
+    <!-- Добавьте другие размеры по мере необходимости -->
+</resources>

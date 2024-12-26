@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Edible or Not</string>
+    <string name="correct_answers">Правильные: %1$d</string>
+    <string name="incorrect_answers">Неправильные: %1$d</string>
+    <string name="button_edible">Съедобно</string>
+    <string name="button_inedible">Несъедобно</string>
+</resources>
